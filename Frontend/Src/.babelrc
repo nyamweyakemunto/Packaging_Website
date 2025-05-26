@@ -1,0 +1,3 @@
+{
+  "plugins": ["babel-plugin-why-did-you-render"]
+}
